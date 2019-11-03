@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    background: teal;
+    text-align: center;
+}
+div{
+    background: snow;
+    margin: 0;
+    text-align: center;
+    display: inline-flex;
+    overflow: hidden;
+}
